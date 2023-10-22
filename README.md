@@ -5,9 +5,10 @@
 ## 3. 평가 날짜 : 2023.10.18(수) 7교시
 ## 4. 웹 주소
 
-1	김도원
-   https://github.com/kdooit/dooit  
-   https://kdooit.github.io/dooit/
+|번호 |  이 름  |                  웹 주소                             |
+| --: | :--:   | :--:                                                 |
+| 1	| 김도원  |   https://github.com/kdooit/dooit                    |
+|     |        |   https://kdooit.github.io/dooit/                     |
 
 2	김원성
   https://github.com/pjtudt/site2  
